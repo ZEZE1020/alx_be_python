@@ -7,7 +7,7 @@ def get_number(prompt):
             print("Invalid input. Please enter a number.")
 
 def main():
-    num1 = get_number("Enter the first number: ")
+    num1 = get_number("Enter the first number:  ")
     num2 = get_number("Enter the second number: ")
     operation = input("Choose the operation (+, -, *, /): ")
 

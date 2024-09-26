@@ -7,5 +7,4 @@ def main():
         product = number * i
         print(f"{number} * {i} = {product}")
 
-if __name__ == "__main__":
-    main()
+main()
